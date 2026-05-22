@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [随身 WIFI 刷 Debian 系统并部署青龙面板](https://blog.zhaizz.top/02.指南/04.刷机/01.portable-wifi-flash)
 - [为 VitePress 网站添加追番功能](https://blog.zhaizz.top/02.指南/03.前端/05.vitepress-plugin-bangumi)
 - [Cloudflare 根域名重定向到 WWW 域名](https://blog.zhaizz.top/02.指南/03.前端/04.cf-domain-redirect)
-- [记录一些有趣的项目](https://blog.zhaizz.top/03.备忘录/03.project)
 <!-- BLOG-POST-LIST:END -->
