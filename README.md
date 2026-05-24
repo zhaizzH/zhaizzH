@@ -19,7 +19,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains 全家桶激活](https://blog.zhaizz.top/02.指南/02.软件安装/02.jetbrains-activate)
 - [让 Claude Code 变得更聪明](https://blog.zhaizz.top/02.指南/03.前后端/06.karpathy-claude-code-guide)
 - [随身 WIFI 刷 Debian 系统并部署青龙面板](https://blog.zhaizz.top/02.指南/04.刷机/01.portable-wifi-flash)
-- [为 VitePress 网站添加追番功能](https://blog.zhaizz.top/02.指南/03.前后端/05.vitepress-plugin-bangumi)
 <!-- BLOG-POST-LIST:END -->
