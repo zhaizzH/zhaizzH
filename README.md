@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [用 Cloudflare Workers 搭建 IP 地址查询工具](https://blog.zhaizz.top/02.指南/03.前后端/07.cf-ip-query)
 - [JetBrains 全家桶激活](https://blog.zhaizz.top/02.指南/02.软件安装/02.jetbrains-activate)
 - [让 Claude Code 变得更聪明](https://blog.zhaizz.top/02.指南/03.前后端/06.karpathy-claude-code-guide)
-- [随身 WIFI 刷 Debian 系统并部署青龙面板](https://blog.zhaizz.top/02.指南/04.刷机/01.portable-wifi-flash)
 <!-- BLOG-POST-LIST:END -->
