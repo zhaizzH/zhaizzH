@@ -17,6 +17,6 @@
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
 - [用 Cloudflare Workers 搭建 IP 地址查询工具](https://blog.zhaizz.top/02.指南/03.前后端/07.cf-ip-query)
+- [VS Code + Claude Code + CC-Switch 配置教程](https://blog.zhaizz.top/02.指南/02.软件安装/03.vscode-claude-code-ccswitch)
 - [JetBrains 全家桶激活](https://blog.zhaizz.top/02.指南/02.软件安装/02.jetbrains-activate)
-- [让 Claude Code 变得更聪明](https://blog.zhaizz.top/02.指南/03.前后端/06.karpathy-claude-code-guide)
 <!-- BLOG-POST-LIST:END -->
