@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [用 Cloudflare Workers 搭建 IP 地址查询工具](https://blog.zhaizz.top/02.指南/03.前后端/07.cf-ip-query)
-- [VS Code + Claude Code + CC-Switch 配置教程](https://blog.zhaizz.top/02.指南/02.软件安装/03.vscode-claude-code-ccswitch)
-- [JetBrains 全家桶激活](https://blog.zhaizz.top/02.指南/02.软件安装/02.jetbrains-activate)
+- [制作 WinToGo 移动硬盘](https://blog.zhaizz.top/02.指南/04.系统安装/01.wintogo-usb)
+- [用 Cloudflare Workers 搭建 IP 地址查询工具](https://blog.zhaizz.top/02.指南/02.网站/02.cloudflare/03.cf-ip-query)
+- [VS Code + Claude Code + CC-Switch 配置教程](https://blog.zhaizz.top/02.指南/01.软件安装/03.vscode-claude-code-ccswitch)
 <!-- BLOG-POST-LIST:END -->
