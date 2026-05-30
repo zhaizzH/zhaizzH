@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [Git 速记表](https://blog.zhaizz.top/01.学习/01.速记/01.git)
 - [制作 Windows + Linux 双系统](https://blog.zhaizz.top/02.指南/04.系统安装/03.win-linux-togo)
 - [制作 LinuxToGo](https://blog.zhaizz.top/02.指南/04.系统安装/02.linuxtogo)
-- [制作 WinToGo](https://blog.zhaizz.top/02.指南/04.系统安装/01.wintogo)
 <!-- BLOG-POST-LIST:END -->
