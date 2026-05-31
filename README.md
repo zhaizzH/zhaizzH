@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [Maven 笔记](https://blog.zhaizz.top/01.学习/02.maven/01.maven)
+- [Docker 笔记](https://blog.zhaizz.top/01.学习/02.笔记/02.docker)
+- [Maven 笔记](https://blog.zhaizz.top/01.学习/02.笔记/01.maven)
 - [Git 速记](https://blog.zhaizz.top/01.学习/01.速记/01.git)
-- [制作 Windows + Linux 双系统](https://blog.zhaizz.top/02.指南/04.系统安装/03.win-linux-togo)
 <!-- BLOG-POST-LIST:END -->
