@@ -17,6 +17,6 @@
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
 - [Docker 笔记](https://blog.zhaizz.top/01.学习/02.笔记/02.docker)
-- [Maven 笔记](https://blog.zhaizz.top/01.学习/02.笔记/01.maven)
-- [Git 速记](https://blog.zhaizz.top/01.学习/01.速记/01.git)
+- [Maven 笔记](https://blog.zhaizz.top/01.学习/02.笔记/03.maven)
+- [Git 笔记](https://blog.zhaizz.top/01.学习/02.笔记/01.git)
 <!-- BLOG-POST-LIST:END -->
