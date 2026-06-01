@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [0CP 开闭原则](https://blog.zhaizz.top/01.学习/02.笔记/04.spring)
 - [Docker 笔记](https://blog.zhaizz.top/01.学习/02.笔记/02.docker)
 - [Maven 笔记](https://blog.zhaizz.top/01.学习/02.笔记/03.maven)
-- [Git 笔记](https://blog.zhaizz.top/01.学习/02.笔记/01.git)
 <!-- BLOG-POST-LIST:END -->
