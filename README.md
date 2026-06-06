@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [0CP 开闭原则](https://blog.zhaizz.top/01.学习/02.笔记/04.spring)
-- [Docker 笔记](https://blog.zhaizz.top/01.学习/02.笔记/02.docker)
-- [Maven 笔记](https://blog.zhaizz.top/01.学习/02.笔记/03.maven)
+- [Spring 基础](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/01.spring-base)
+- [Spring Bean 配置与依赖注入](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/02.spring-bean)
+- [Spring 注解开发](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/03.spring-annotation)
 <!-- BLOG-POST-LIST:END -->
