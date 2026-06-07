@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [Spring 基础](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/01.spring-base)
-- [Spring Bean 配置与依赖注入](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/02.spring-bean)
-- [Spring 注解开发](https://blog.zhaizz.top/01.学习/02.笔记/04.Spring 笔记/03.spring-annotation)
+- [SpringMVC 基础](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/01.springmvc-base)
+- [SpringMVC 请求与响应](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/02.springmvc-request)
+- [SpringMVC REST 风格](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/03.springmvc-rest)
 <!-- BLOG-POST-LIST:END -->
