@@ -16,7 +16,7 @@
 
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [SpringMVC 基础](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/01.springmvc-base)
-- [SpringMVC 请求与响应](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/02.springmvc-request)
-- [SpringMVC REST 风格](https://blog.zhaizz.top/01.学习/02.笔记/05.SpringMVC 笔记/03.springmvc-rest)
+- [MyBatisPlus 代码生成器](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/05.mybatisplus-generator)
+- [MyBatisPlus DML 增删改控制](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/04.mybatisplus-dml)
+- [MyBatisPlus DQL 查询控制](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/03.mybatisplus-dql)
 <!-- BLOG-POST-LIST:END -->
