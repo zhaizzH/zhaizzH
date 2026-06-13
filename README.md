@@ -1,7 +1,5 @@
 ### Hi I`m  宅宅宅👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zhaizzH&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=zhaizzH&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)
-
 **一只纯业余的编程爱好者**
 
   [![Languages](https://skillicons.dev/icons?i=java,py,js,nodejs)](https://skillicons.dev)
