@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [苍穹外卖详细设计文档](https://blog.zhaizz.top/01.学习/03.总结/01.sky-takeout-detailed)
+- [小米 MIX 2S 刷机](https://blog.zhaizz.top/02.指南/05.刷机/02.mix2s)
 - [MyBatisPlus 代码生成器](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/05.mybatisplus-generator)
-- [MyBatisPlus DML 增删改控制](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/04.mybatisplus-dml)
-- [MyBatisPlus DQL 查询控制](https://blog.zhaizz.top/01.学习/02.笔记/07.MyBatisPlus/03.mybatisplus-dql)
 <!-- BLOG-POST-LIST:END -->
