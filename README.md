@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [DataLoom 项目总结](https://blog.zhaizz.top/01.学习/03.总结/02.dataloom)
-- [苍穹外卖总结](https://blog.zhaizz.top/01.学习/03.总结/01.sky-takeout)
-- [小米 MIX 2S 刷机](https://blog.zhaizz.top/02.指南/05.刷机/02.mix2s)
+- [Spring Security 基础](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/01.springsecurity-base)
+- [Spring Security 认证流程](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/02.springsecurity-authentication)
+- [Spring Security JWT 与 Token 认证](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/03.springsecurity-jwt-token)
 <!-- BLOG-POST-LIST:END -->
