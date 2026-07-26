@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [Windows11 PowerShell 5.X 升级至 PowerShell 7.X](https://blog.zhaizz.top/02.指南/01.软件安装/04.powershell-upgrade)
 - [Spring Security 基础](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/01.springsecurity-base)
 - [Spring Security 认证流程](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/02.springsecurity-authentication)
-- [Spring Security JWT 与 Token 认证](https://blog.zhaizz.top/01.学习/02.笔记/07.SpringSecurity/03.springsecurity-jwt-token)
 <!-- BLOG-POST-LIST:END -->
