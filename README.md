@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [Hermes Agent 部署：从安装到飞书机器人上线](https://blog.zhaizz.top/02.指南/03.ai/02.hermes-deploy)
 - [Debian 本地服务器开荒](https://blog.zhaizz.top/02.指南/04.系统安装/04.debian-server-setup)
 - [VS Code 控制台中文乱码解决方案](https://blog.zhaizz.top/02.指南/01.软件安装/05.vscode-console-encoding)
-- [Windows11 PowerShell 5.X 升级至 PowerShell 7.X](https://blog.zhaizz.top/02.指南/01.软件安装/04.powershell-upgrade)
 <!-- BLOG-POST-LIST:END -->
