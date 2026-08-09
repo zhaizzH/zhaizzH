@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent 部署：从安装到飞书机器人上线](https://blog.zhaizz.top/02.指南/03.ai/02.hermes-deploy)
-- [Debian 本地服务器开荒](https://blog.zhaizz.top/02.指南/04.系统安装/04.debian-server-setup)
-- [VS Code 控制台中文乱码解决方案](https://blog.zhaizz.top/02.指南/01.软件安装/05.vscode-console-encoding)
+- [FastAPI 进阶功能](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/07.fastapi-advanced)
+- [FastAPI 基础与请求](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/01.fastapi-base)
+- [FastAPI 参数校验与嵌套模型](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/02.fastapi-params-validation)
 <!-- BLOG-POST-LIST:END -->
