@@ -14,7 +14,7 @@
   
 **最新博客文章**
 <!-- BLOG-POST-LIST:START -->
+- [3.5mm TRS/TRRS 耳机接口问题分析与排查](https://blog.zhaizz.top/02.指南/06.硬件/01.3.5mm-audio-jack)
 - [FastAPI 进阶功能](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/07.fastapi-advanced)
 - [FastAPI 基础与请求](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/01.fastapi-base)
-- [FastAPI 参数校验与嵌套模型](https://blog.zhaizz.top/01.学习/02.笔记/09.Fastapi/02.fastapi-params-validation)
 <!-- BLOG-POST-LIST:END -->
